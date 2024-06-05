@@ -1,0 +1,8 @@
+.navstyle{
+    border-color:"red" ;
+    height: 100px ;
+    width: 100px;
+    position: sticky;
+    display: flex;
+  
+}
